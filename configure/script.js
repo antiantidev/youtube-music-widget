@@ -1,7 +1,7 @@
-const appId = "nuttys-ytmdesktop-widget";
-const appName = "nuttys YouTube Music Widget";
+const appId = "aad-ytmdesktop-widget";
+const appName = "aad YouTube Music Widget";
 const appVersion = "1.0.0";
-const baseURL = "http://nuttylmao.github.io/youtube-music-widget";
+const baseURL = "https://antiantidev.github.io/youtube-music-widget";
 
 let browserSourceURL = "";
 

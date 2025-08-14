@@ -2,7 +2,7 @@
 // PARAMETRS //
 ///////////////
 
-const baseURL = "https://nuttylmao.github.io/youtube-music-widget";
+const baseURL = "https://antiantidev.github.io/youtube-music-widget";
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 
